@@ -1,7 +1,18 @@
 ![](https://media-exp1.licdn.com/dms/image/C4D16AQFtQtfaUDnlug/profile-displaybackgroundimage-shrink_200_800/0/1654016529650?e=1659571200&v=beta&t=fLLAPJoMDmf9ukCm6ihW4IV3jCA52oQs85xnyrGabYc)
 
 
-Skills: React / html / css / JavaScript / Bootstrap / Tailwind css / Firebase / Node js / Mongodb / Express js 
+## Skills:
+
+- ✅ React
+- ✅ html 
+- ✅ css 
+- ✅ JavaScript
+- ✅ Bootstrap
+- ✅ Tailwind css
+- ✅ Firebase 
+- ✅ Node js 
+- ✅ Mongodb 
+- ✅ Express js 
 
 
 
