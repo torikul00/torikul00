@@ -13,6 +13,8 @@
 - ✅ Node js 
 - ✅ Mongodb 
 - ✅ Express js 
+- ✅ Wordpress
+- ✅ ELementor 
 
 ## Contact with Me
 
