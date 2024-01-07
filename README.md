@@ -4,6 +4,7 @@
 ## Skills:
 
 - ✅ React
+- ✅ Next js
 - ✅ html 
 - ✅ css 
 - ✅ JavaScript
