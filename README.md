@@ -5,16 +5,16 @@
 
 - ✅ React
 - ✅ Next js
-- ✅ html 
+- ✅ HTML 
 - ✅ css 
 - ✅ JavaScript
 - ✅ Bootstrap
-- ✅ Tailwind css
+- ✅ Tailwind CSS
 - ✅ Firebase 
 - ✅ Node js 
-- ✅ Mongodb 
+- ✅ MongoDB 
 - ✅ Express js 
-- ✅ Wordpress
+- ✅ WordPress
 - ✅ ELementor 
 
 ## Contact with Me
