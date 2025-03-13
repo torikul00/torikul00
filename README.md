@@ -1,6 +1,6 @@
 ![alt text](https://i.ibb.co/4J9Q0jb/TORIKUL-ISLAM-1.png)
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ranasheikhzn&label=Profile%20views&color=0e75b6&style=flat" alt="ranasheikhzn" /> </p>
 ## Skills:
 
 - ✅ React
