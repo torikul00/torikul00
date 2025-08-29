@@ -91,9 +91,9 @@ expand my learning and builds upon my developer skills.
 
 ### GitHub Stats
 
-![Nabil's Stats](https://github-readme-stats.vercel.app/api?username=torikul00&theme=gruvbox&show_icons=true&hide_border=true&count_private=true)
-![Nabil's Streak](https://github-readme-streak-stats.herokuapp.com/?user=torikul00&theme=gruvbox&hide_border=true)
-![Nabil's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=torikul00&theme=gruvbox&show_icons=true&hide_border=true&layout=compact&card_width=445px)
+![Torikul's Stats](https://github-readme-stats.vercel.app/api?username=torikul00&theme=gruvbox&show_icons=true&hide_border=true&count_private=true)
+![Torikul's Streak](https://github-readme-streak-stats.herokuapp.com/?user=torikul00&theme=gruvbox&hide_border=true)
+![Torikul's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=torikul00&theme=gruvbox&show_icons=true&hide_border=true&layout=compact&card_width=445px)
 
 ### ✍️ Random Dev Quote
 
