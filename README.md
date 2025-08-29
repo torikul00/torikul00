@@ -15,15 +15,15 @@ expand my learning and builds upon my developer skills.
 - Looking to work as a software developer.
 - Currently learning Flutter development with dart.
 - Ask me about anything related to software development.
-- See my portfolio at **[nabilnewaz.com](https://www.nabilnewaz.com)**.
-- My mail address **[nabilnewaz@gmail.com](mailto:nabilnewaz@gmail.com)**.
+- See my portfolio at **[torikulislam.com](https://www.torikul.com)**.
+- My mail address **[torikul.meraj@gmail.com](mailto:torikul.meraj@gmail.com)**.
 - Fun fact: I can work straight 12 hours everyday if its about coding :3
 
 ### What I'm Doing?
 
 - Writing `JavaScript`, `React,js`, `Node.js`, `Express.js`, `MongoDB`, `PHP`, `MySQL`.
 - Contributing to Open Source and Personal Projects.
-- Mostly active on **[LinkedIn](https://www.linkedin.com/in/nabilnewaz)** and **[Twitter](https://twitter.com/Nabil_Newaz)**.
+- Mostly active on **[LinkedIn](https://www.linkedin.com/in/torikul1)**.
 
 ### What Are My Skill Sets?
 
@@ -84,12 +84,10 @@ expand my learning and builds upon my developer skills.
 
 ### How To Reach Me?
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabilnewaz) 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?&logo=twitter&logoColor=white)](https://twitter.com/Nabil_Newaz)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?&logo=facebook&logoColor=white)](https://www.facebook.com/nabil.newaz.5/)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discordapp.com/users/Nabil_Newaz#9199) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/nabil_newaz/) 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20675149/nabil-newaz)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/torikul1) 
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?&logo=facebook&logoColor=white)](https://www.facebook.com/timutorikul/)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discordapp.com/users/torikul.timu) 
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18026868/torikul-islam)
 
 ### GitHub Stats
 
