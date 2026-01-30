@@ -1,101 +1,67 @@
-<h1> Hi There 👋, Myself Torikul Islam </h1>
-<h2>Full Stack Developer</h2>
+<h1>Hi There 👋, I'm Torikul Islam</h1>
+<h2>Full Stack Developer (React / Next.js / Node.js)</h2>
+
 <p>
-Hard-working web developer with a flair for creating elegant solutions in the least amount of time. With a proven
-ability to adapt to both self-starting and collaborative environments while staying focused on achieving high-
-quality results under strict deadlines. Eager to obtain a challenging position at a prestigious company that will
-expand my learning and builds upon my developer skills.
+Full‑stack JavaScript developer building modern web applications end‑to‑end — from pixel‑perfect UIs to secure APIs, payments, real‑time features, and background jobs. I enjoy shipping clean, scalable solutions, integrating 3rd‑party services, and improving product quality with security and monitoring best practices.
 </p>
 
-### Who I Am?
+## Who I Am
+- Software Engineer based in **[Rajshahi](https://en.wikipedia.org/wiki/Rajshahi), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh)**
+- Working as a **Full Stack Developer**
+- Interested in **Frontend + Backend + System integrations**
+- Portfolio: **[torikulislam.com](https://www.torikul.com)**
+- Email: **[torikul.meraj@gmail.com](mailto:torikul.meraj@gmail.com)**
+- Mostly active on **[LinkedIn](https://www.linkedin.com/in/torikul1)**
+- Fun fact: I can code for long hours when I’m locked in
 
-- A Software Engineer based in **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh)**.
-- Working as **Full Stack Developer**.
-- Looking to work as a software developer.
-- Currently learning Flutter development with dart.
-- Ask me about anything related to software development.
-- See my portfolio at **[torikulislam.com](https://www.torikul.com)**.
-- My mail address **[torikul.meraj@gmail.com](mailto:torikul.meraj@gmail.com)**.
-- Fun fact: I can work straight 12 hours everyday if its about coding :3
+## What I Build
+- **Frontend apps** with **React** (Vite) and **Next.js**, Tailwind UI systems, dashboards, rich text editors, charts, and smooth UX motion
+- **Backend APIs** with **Node.js/Express**, **MongoDB**, authentication (JWT + OAuth), uploads/media processing, and production-grade security
+- **Real-time & async systems** with **Socket.IO**, **Redis**, queues, and scheduled jobs
+- **Business integrations** like **Stripe payments**, transactional email, cloud media storage, secrets management, and error monitoring
+- **AI-assisted features** using **OpenAI** and **Anthropic** SDKs
 
-### What I'm Doing?
+## Skills (Frontend)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
+![React Router](https://img.shields.io/badge/React%20Router-CA4245?logo=reactrouter&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?logo=tailwindcss&logoColor=white)
+![Radix UI](https://img.shields.io/badge/Radix%20UI-161618?logo=radixui&logoColor=white)
+![React Query](https://img.shields.io/badge/TanStack%20Query-FF4154?logo=reactquery&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?logo=zustand&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-EC5990?logo=reacthookform&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?logo=zod&logoColor=white)
+![Yup](https://img.shields.io/badge/Yup-000000?logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?logo=framer&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO%20Client-010101?logo=socketdotio&logoColor=white)
+![Supabase](https://img.shields.io/badge/supabase-000000?logo=supabase&logoColor=white)
+![firebase](https://img.shields.io/badge/firebase-000000?logo=firebase&logoColor=white)
+![PWA](https://img.shields.io/badge/pwa-000000?logo=pwa&logoColor=white)
 
-- Writing `JavaScript`, `React,js`, `Node.js`, `Express.js`, `MongoDB`, `PHP`, `MySQL`.
-- Contributing to Open Source and Personal Projects.
-- Mostly active on **[LinkedIn](https://www.linkedin.com/in/torikul1)**.
+## Skills (Backend)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white)
+![Passport](https://img.shields.io/badge/Passport-34E27A?logo=passport&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-000000?logoColor=white)
+![Cron](https://img.shields.io/badge/Cron%20Jobs-000000?logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?logo=stripe&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?logo=cloudinary&logoColor=white)
+![Multer](https://img.shields.io/badge/Multer-000000?logoColor=white)
+![Sharp](https://img.shields.io/badge/Sharp-99CC00?logoColor=white)
+![Nodemailer](https://img.shields.io/badge/Nodemailer-0A0A0A?logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?logo=sentry&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud%20Secret%20Manager-4285F4?logo=googlecloud&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-000000?logoColor=white)
 
-### What Are My Skill Sets?
-
-#### Tech Stack
-![C](https://img.shields.io/badge/C-00599C?&logo=C&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?&logo=express&logoColor=white)
-![React.js](https://img.shields.io/badge/React.js-0081CB?&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?logo=nextdotjs&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?&logo=react-router&logoColor=white)
-![JWT](https://img.shields.io/badge/json%20web%20tokens-323330?&logo=json-web-tokens&logoColor=pink)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?&logo=jquery&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?&logo=markdown&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?&logo=bootstrap&logoColor=white)
-![MOngoDB](https://img.shields.io/badge/MongoDB-4EA94B?&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?&logo=mariadb&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white)
-![Vercel](	https://img.shields.io/badge/Vercel-000000?&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?&logo=netlify&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?&logo=Cloudflare&logoColor=white)
-![WordPress](https://img.shields.io/badge/Wordpress-21759B?&logo=wordpress&logoColor=white)
-![Elementor](https://img.shields.io/badge/Elementor-9146FF?&logo=elementor&logoColor=white)
-
-#### IDE Expertise
-
-![Atom](https://img.shields.io/badge/Atom-66595C?&logo=Atom&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?&logo=googlecolab&color=525252) 
-![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2B%2B&logoColor=black)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&&logo=PyCharm&logoColor=white)
-![Replit](https://img.shields.io/badge/replit-667881?&logo=replit&logoColor=white)
-![RStudio](https://img.shields.io/badge/RStudio-75AADB?&logo=RStudio&logoColor=white)
-![Spyder](https://img.shields.io/badge/Spyder%20Ide-FF0000?&logo=spyder%20ide&logoColor=white)
-![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&&logo=sublime-text&logoColor=important)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?&logo=visual%20studio&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VSCode-0078D4?&logo=visual%20studio%20code&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?&logo=Xcode&logoColor=white)
-
-#### Office Applications
-
-![Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?&logo=google-sheets&logoColor=white)
-![Excell](https://img.shields.io/badge/Microsoft_Excel-217346?&logo=microsoft-excel&logoColor=white)
-![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?&logo=microsoft-office&logoColor=white)
-![Power Point](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?&logo=microsoft-powerpoint&logoColor=white)
-![Share Point](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?&logo=microsoft-sharepoint&logoColor=white)
-![Word](https://img.shields.io/badge/Microsoft_Word-2B579A?&logo=microsoft-word&logoColor=white)
-![Miro](https://img.shields.io/badge/Miro-F7C922?&logo=Miro&logoColor=050036)
-![Notion](https://img.shields.io/badge/Notion-000000?&logo=notion&logoColor=white)
-![OverLeaf](https://img.shields.io/badge/Overleaf-47A141?&logo=Overleaf&logoColor=white)
-![ToDoist](https://img.shields.io/badge/Todoist-E44332?&logo=todoist&logoColor=white)
-
-### How To Reach Me?
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/torikul1) 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?&logo=facebook&logoColor=white)](https://www.facebook.com/timutorikul/)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discordapp.com/users/torikul.timu) 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18026868/torikul-islam)
-
-### GitHub Stats
-
-![Torikul's Stats](https://github-readme-stats.vercel.app/api?username=torikul00&theme=gruvbox&show_icons=true&hide_border=true&count_private=true)
-![Torikul's Streak](https://github-readme-streak-stats.herokuapp.com/?user=torikul00&theme=gruvbox&hide_border=true)
-![Torikul's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=torikul00&theme=gruvbox&show_icons=true&hide_border=true&layout=compact&card_width=445px)
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
- 
-
+## How To Reach Me
+[![Whatsapp](https://img.shields.io/badge/Whatsapp-0077B5?logo=Whatsapp&logoColor=white)](https://wa.me/8801971093582)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/torikul1)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/timutorikul/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discordapp.com/users/torikul.timu)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18026868/torikul-islam)
