@@ -9,7 +9,7 @@ Full‑stack JavaScript developer building modern web applications end‑to‑en
 - Software Engineer based in **[Rajshahi](https://en.wikipedia.org/wiki/Rajshahi), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh)**
 - Working as a **Full Stack Developer**
 - Interested in **Frontend + Backend + System integrations**
-- Portfolio: **[torikulislam.com](https://www.torikul.com)**
+- Portfolio: **[torikulislam.com](https://torikulislam.com/)**
 - Email: **[torikul.meraj@gmail.com](mailto:torikul.meraj@gmail.com)**
 - Mostly active on **[LinkedIn](https://www.linkedin.com/in/torikul1)**
 - Fun fact: I can code for long hours when I’m locked in
