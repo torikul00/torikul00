@@ -10,7 +10,7 @@ Full‑stack JavaScript developer building modern web applications end‑to‑en
 - Working as a **Full Stack Developer**
 - Interested in **Frontend + Backend + System integrations**
 - Portfolio: **[torikulislam.com](https://torikulislam.com/)**
-- Email: **[torikul.meraj@gmail.com](mailto:torikul@torikulislam.com)**
+- Email: **[torikul@torikulislam.com](mailto:torikul@torikulislam.com)**
 - Mostly active on **[LinkedIn](https://www.linkedin.com/in/torikul1)**
 - Fun fact: I can code for long hours when I’m locked in
 
